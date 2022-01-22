@@ -1,4 +1,5 @@
-# honeyOS - Simple, compact custom OS based on Windows 10.
+# honeyOS
+Simple, lightweight custom OS based on Windows 10.
 
 ![HoneyOS](https://raw.githubusercontent.com/kixxu/honeyOS/main/HoneyOSv2.png)
 
