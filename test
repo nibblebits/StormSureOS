@@ -1,0 +1,18 @@
+Hi,
+I tried to reply to your udemy question but deleted it before catching your profile name to send you direct message!. Felt the only way to reply to you was to commit to your repo.
+
+Read response below didnt want you to think I was ignoring you:
+
+Hi Jaihson,
+
+We do set the segment registers in the bootloader as can be seen here: https://github.com/nibblebits/PeachOS/blob/master/src/boot/boot.asm
+
+I recommend completing the course before analyzing as things tend to merge and change a lot during the whole process of this course.
+
+As for the A20 line this is something to maybe look into please make an issue report on the Github. To avoid confusion I deleted your question and wrote to you directly
+
+Thanks,
+
+Dan
+
+Please create an issue report so i can look into it further.
